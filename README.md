@@ -1,2 +1,2 @@
 # trainning_tma
-trainning_tma_process
+trainning_tma_process on PC
